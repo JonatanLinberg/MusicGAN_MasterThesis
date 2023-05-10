@@ -10,3 +10,10 @@ Code for training and data visualisation is available in [/code](/code).
 - [Training Parameters](/code/params.py), a file for controlling the model hyperparameters.
 - [MelSpec](/code/melspec.py), a keras layer implementation for creating the mel-scaled spectrograms, original code is found here: [https://github.com/keras-team/keras-io/blob/master/examples/audio/melgan_spectrogram_inversion.py](https://github.com/keras-team/keras-io/blob/master/examples/audio/melgan_spectrogram_inversion.py).
 - [No-longer–used code](/code/old_code), kept for the purpose of documentation.
+
+## Models
+The main models of the project, named A-D, are available in [/models/train](/models/train)
+- [Model A (no PatchGAN)](/models/train/A_no_patchGAN)
+- [Model B (no rhythm loss)](/models/train/B_no_rhythm)
+- [Model C (no emotion labels)](/models/train/C_no_emo)
+- [Model D (full model)](/models/train/D_full_model)
