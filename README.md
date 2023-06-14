@@ -22,12 +22,12 @@ The main models of the project, named A-D, are available in [/models/train](/mod
 ## Generated Examples
 ### Model B
 ![Spectrogram](/misc/examples/demo_B2.png)
-![Music](/misc/examples/demo_B2.mp4)
+[Audio](/misc/examples/demo_B2.mp3?raw=true)
 
 ### Model C
 ![Spectrogram](/misc/examples/demo_C.png)
-![Music](/misc/examples/demo_C.mp4)
+[Audio](/misc/examples/demo_C.mp3?raw=true)
 
 ### Model D
 ![Spectrogram](/misc/examples/demo_D.png)
-![Music](/misc/examples/demo_D.mp4)
+[Audio](/misc/examples/demo_D.mp3?raw=true)
