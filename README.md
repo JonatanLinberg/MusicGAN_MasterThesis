@@ -17,3 +17,17 @@ The main models of the project, named A-D, are available in [/models/train](/mod
 - [Model B (no rhythm loss)](/models/train/B_no_rhythm)
 - [Model C (no emotion labels)](/models/train/C_no_emo)
 - [Model D (full model)](/models/train/D_full_model)
+
+
+## Generated Examples
+### Model B
+![Spectrogram](/misc/examples/demo_B2.png)
+![Music](/misc/examples/demo_B2.wav)
+
+### Model C
+![Spectrogram](/misc/examples/demo_C.png)
+![Music](/misc/examples/demo_C.wav)
+
+### Model D
+![Spectrogram](/misc/examples/demo_D.png)
+![Music](/misc/examples/demo_D.wav)
